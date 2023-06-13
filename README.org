@@ -4,7 +4,7 @@ Control frow macros with case comprehensiveness checking.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/hyotang666/mcase.git   |
-| commit  | {"messa  |
+| commit  | 95b9ee9  |
 | systems | mcase |
 |---------+-------------------------------------------|
 
