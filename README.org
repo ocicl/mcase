@@ -1,0 +1,10 @@
+* mcase
+
+Control frow macros with case comprehensiveness checking.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/mcase.git   |
+| commit  | {"messa  |
+| systems | mcase |
+|---------+-------------------------------------------|
+
